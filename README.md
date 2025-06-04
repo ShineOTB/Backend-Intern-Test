@@ -60,12 +60,12 @@ When clicked, call your quote function and display the result
 
 **Submit:** Screenshot of your feature working in the browser
 
-**Step 4: **Make the Homepage Mobile-Friendly (10 mins)
+**Step 4:** Make the Homepage Mobile-Friendly (10 mins)
 Use Tailwind CSS classes (sm:, w-full, text-center, etc.) to improve the layout
 
 Use Chrome DevTools to test and ensure it looks good on mobile devices
 
-**Submit: ** Screenshot showing your app in mobile view
+**Submit:** Screenshot showing your app in mobile view
 
 **Step 5:** (Bonus) Deploy the App Online (Optional)
 Push your code to GitHub
